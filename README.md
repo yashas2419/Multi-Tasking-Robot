@@ -14,3 +14,4 @@ A self-built intelligent robot capable of:
 **Core Components:**
 Arduino Uno R3 · HC-05 Bluetooth · L293D Motor Driver · Ultrasonic Sensor · Servo Motor · IR Sensors · DC Motors · Wheels
 
+![image alt](https://github.com/yashas2419/Multi-Tasking-Robot/blob/main/IMG_20230104_013205.jpg?raw=true)
